@@ -48,8 +48,8 @@
 ![empd ex 6 1      2](https://github.com/user-attachments/assets/71946c73-1e33-40a8-8435-c9bfeca30d6e)
 ![empd ex 6 1      3](https://github.com/user-attachments/assets/4c895f28-1d8c-4d32-a31a-114827c7fe45)
 
-### Name:
-### Register Number:
+### Name:   E HEMACHANDRAN
+### Register Number: 24003784
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
